@@ -1,22 +1,22 @@
--- Replace the URL below with the GitHub Raw URL of Industrialist_MAX_V21.lua
-local URL = "PASTE_YOUR_GITHUB_RAW_URL_HERE"
+-- INDUSTRIALIST MAX V21 | ONE-PASTE LOADER
+local URL = "https://raw.githubusercontent.com/karlmarxmvasquez-ops/Keyless-MaxFPS-Universal/refs/heads/main/Industrialist_MAX_V21.lua"
 
 local ok, source = pcall(function()
     return game:HttpGet(URL)
 end)
 
 if not ok or type(source) ~= "string" or source == "" then
-    warn("[MAX] Could not download the hosted script: " .. tostring(source))
+    warn("[MAX] Download failed: " .. tostring(source))
     return
 end
 
 local compile, err = loadstring(source)
 if not compile then
-    warn("[MAX] Hosted script compile failed: " .. tostring(err))
+    warn("[MAX] Compile failed: " .. tostring(err))
     return
 end
 
 local ran, runErr = pcall(compile)
 if not ran then
-    warn("[MAX] Hosted script failed: " .. tostring(runErr))
+    warn("[MAX] Runtime error: " .. tostring(runErr))
 end

@@ -105,11 +105,10 @@ local function getTotalMB()
     if ok and type(v)=="number" then return v end
     return nil
 end
-local function anyVisualOption()
-    for k,v in pairs(CFG) do
-        if k ~= "RenderDistance" and k ~= "FPSMonitor" and v == true then return true end
-    end
-    return false
+local function anyObjectOption()
+    return CFG.Culling or CFG.RemoveFoliage or CFG.SimpleMaterials or CFG.RemoveTextures
+        or CFG.RemoveParticles or CFG.RemoveTrails or CFG.RemoveLights or CFG.RemoveShadows
+        or CFG.RemoveReflections or CFG.RemovePostFX or CFG.RemoveEnvironment or CFG.RemoveBillboards
 end
 local function cullingOption()
     return CFG.Culling
@@ -241,7 +240,7 @@ local function pushChildren(parent)
     end
 end
 local function scanWorker()
-    if scanning or not running or paused or not anyVisualOption() then return end
+    if scanning or not running or paused or not anyObjectOption() then return end
     scanning = true
     scanVisited = 0
     scanFrames,scanDepth = {},0
@@ -282,7 +281,7 @@ local function disconnectWorld()
 end
 local function connectWorld()
     disconnectWorld()
-    if not anyVisualOption() then return end
+    if not anyObjectOption() then return end
     connect(Workspace.DescendantAdded,function(obj)
         if running and not paused then applyObject(obj) end
     end)
@@ -388,14 +387,19 @@ function MAX.SetOption(key,value)
     end
     if key=="HideTerrainGrass" or key=="SimpleWater" or key=="CompatLighting" then
         applyGlobals()
+        if anyObjectOption() then
+            clearTracking()
+            connectWorld()
+            task.spawn(scanWorker)
+        end
+        log("Global option "..key.." = "..tostring(value))
+        return true
     end
     clearTracking()
     disconnectWorld()
-    if anyVisualOption() then
+    if anyObjectOption() then
         connectWorld()
         task.spawn(scanWorker)
-    else
-        restoreGlobals()
     end
     log("Option "..key.." = "..tostring(value))
     return true
@@ -422,7 +426,7 @@ end
 function MAX.Resume()
     if not running or not paused then return end
     paused=false
-    if anyVisualOption() then
+    if anyObjectOption() then
         connectWorld()
         task.spawn(scanWorker)
     end

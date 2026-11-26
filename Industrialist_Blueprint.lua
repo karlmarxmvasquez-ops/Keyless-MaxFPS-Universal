@@ -1,1 +1,180 @@
-LS1bPVsKSU5EVVNUUklBTElTVCBCTFVFUFJJTlQgfCB2MS4xCkluZGVwZW5kZW50IGNsaWVudC1zaWRlIGJsdWVwcmludCB1dGlsaXR5IGZvciBSb2Jsb3ggLyBEZWx0YS4KCkZlYXR1cmVzOgotIExpZ2h0d2VpZ2h0IGRyYWdnYWJsZS9jb2xsYXBzaWJsZSBtb2JpbGUgcGFuZWwKLSBTY2FucyBuZWFyYnkgcGxvdCBtb2RlbHMgYW5kIGNhcHR1cmVzIHJlbGF0aXZlIHRyYW5zZm9ybXMKLSBKU09OIGJsdWVwcmludCBleHBvcnQvaW1wb3J0IHRocm91Z2ggZXhlY3V0b3IgY2xpcGJvYXJkCi0gUHJldmlldyBtYXJrZXJzIGFuZCBjb250cm9sbGVkIHBhc3RlIHF1ZXVlCi0gVXNlcyBQbGFjZW1lbnRTeXN0ZW0uUGxhY2VCaW5kIG9ubHkgYWZ0ZXIgcmVzb2x2aW5nIGEgbWF0Y2hpbmcgY2F0YWxvZyBtb2RlbAoKSW1wb3J0YW50OgpJbmR1c3RyaWFsaXN0IG1heSBjaGFuZ2UgaXRzIGludGVybmFsIGNhdGFsb2cgYW5kIHJlbW90ZSBzaWduYXR1cmVzLiBUaGlzIHNjcmlwdApjaGVja3MgdGhlIHJlcXVpcmVkIG9iamVjdHMgYW5kIHJlcG9ydHMgZmFpbHVyZXMgcmF0aGVyIHRoYW4gZ3Vlc3NpbmcgYWx0ZXJuYXRlCnJlbW90ZSBhcmd1bWVudHMuIFBpcGUvZWxlY3RyaWNhbCBjb25uZWN0aW9ucyBhbmQgbWFjaGluZSBydW50aW1lIHNldHRpbmdzIGFyZSBub3QKc2VyaWFsaXplZCBpbiB0aGlzIHZlcnNpb24uCl09XQoKaWYgX0cuSU5EVVNUUklBTElTVF9CTFVFUFJJTlQgYW5kIF9HLklORFVTVFJJQUxJU1RfQkxVRVBSSU5ULkRlc3Ryb3kgdGhlbgogICAgcGNhbGwoZnVuY3Rpb24oKSBfRy5JTkRVU1RSSUFMSVNUX0JMVUVQUklOVDpEZXN0cm95KCkgZW5kKQplbmQKCmxvY2FsIFBsYXllcnMgPSBnYW1lOkdldFNlcnZpY2UoIlBsYXllcnMiKQpsb2NhbCBSZXBsaWNhdGVkU3RvcmFnZSA9IGdhbWU6R2V0U2VydmljZSgiUmVwbGljYXRlZFN0b3JhZ2UiKQpsb2NhbCBIdHRwU2VydmljZSA9IGdhbWU6R2V0U2VydmljZSgiSHR0cFNlcnZpY2UiKQpsb2NhbCBSdW5TZXJ2aWNlID0gZ2FtZTpHZXRTZXJ2aWNlKCJSdW5TZXJ2aWNlIikKbG9jYWwgVXNlcklucHV0U2VydmljZSA9IGdhbWU6R2V0U2VydmljZSgiVXNlcklucHV0U2VydmljZSIpCmxvY2FsIExvY2FsUGxheWVyID0gUGxheWVycy5Mb2NhbFBsYXllcgpsb2NhbCBDaGFyYWN0ZXIgPSBMb2NhbFBsYXllci5DaGFyYWN0ZXIgb3IgTG9jYWxQbGF5ZXIuQ2hhcmFjdGVyQWRkZWQ6V2FpdCgpCmxvY2FsIFJvb3QgPSBDaGFyYWN0ZXI6V2FpdEZvckNoaWxkKCJIdW1hbm9pZFJvb3RQYXJ0IiwgMTApCmlmIG5vdCBSb290IHRoZW4gd2FybigiW0JsdWVwcmludF0gQ2hhcmFjdGVyIHJvb3Qgbm90IGZvdW5kLiIpIHJldHVybiBlbmQKCmxvY2FsIEFQSSA9IHtWZXJzaW9uPSIxLjEiLCBCbHVlcHJpbnQ9bmlsLCBQcmV2aWV3PXt9LCBCdXN5PWZhbHNlLCBEZXN0cm95ZWQ9ZmFsc2V9Cl9HLklORFVTVFJJQUxJU1RfQkxVRVBSSU5UID0gQVBJCgpsb2NhbCBmdW5jdGlvbiBub3RpZnkobXNnKQogICAgcGNhbGwoZnVuY3Rpb24oKQogICAgICAgIGdhbWU6R2V0U2VydmljZSgiU3RhcnRlckd1aSIpOlNldENvcmUoIlNlbmROb3RpZmljYXRpb24iLCB7CiAgICAgICAgICAgIFRpdGxlPSJJbmR1c3RyaWFsaXN0IEJsdWVwcmludCIsIFRleHQ9dG9zdHJpbmcobXNnKSwgRHVyYXRpb249NAogICAgICAgIH0pCiAgICBlbmQpCiAgICBwcmludCgiW0JsdWVwcmludF0gIiAuLiB0b3N0cmluZyhtc2cpKQplbmQKCmxvY2FsIGZ1bmN0aW9uIGdldFBsYWNlbWVudCgpCiAgICBsb2NhbCBmb2xkZXIgPSBSZXBsaWNhdGVkU3RvcmFnZTpGaW5kRmlyc3RDaGlsZCgiUGxhY2VtZW50U3lzdGVtIikKICAgIGlmIG5vdCBmb2xkZXIgdGhlbiByZXR1cm4gbmlsLCBuaWwgZW5kCiAgICByZXR1cm4gZm9sZGVyLCBmb2xkZXI6RmluZEZpcnN0Q2hpbGQoIlBsYWNlQmluZCIpCmVuZAoKbG9jYWwgZnVuY3Rpb24gaXNDYW5kaWRhdGUoaW5zdCkKICAgIGlmIG5vdCBpbnN0OklzQSgiTW9kZWwiKSB0aGVuIHJldHVybiBmYWxzZSBlbmQKICAgIGlmIGluc3QgPT0gQ2hhcmFjdGVyIHRoZW4gcmV0dXJuIGZhbHNlIGVuZAogICAgbG9jYWwgb2ssIGNmID0gcGNhbGwoZnVuY3Rpb24oKSByZXR1cm4gaW5zdDpHZXRQaXZvdCgpIGVuZCkKICAgIGlmIG5vdCBvayBvciBub3QgY2YgdGhlbiByZXR1cm4gZmFsc2UgZW5kCiAgICBsb2NhbCBuYW1lID0gaW5zdC5OYW1lOmxvd2VyKCkKICAgIGlmIG5hbWUgPT0gImNhbWVyYSIgb3IgbmFtZSA9PSAidGVycmFpbiIgdGhlbiByZXR1cm4gZmFsc2UgZW5kCiAgICByZXR1cm4gdHJ1ZQplbmQKCmxvY2FsIGZ1bmN0aW9uIGZpbmRDYXRhbG9nTW9kZWwobmFtZSkKICAgIGxvY2FsIHJvb3RzID0ge1JlcGxpY2F0ZWRTdG9yYWdlfQogICAgbG9jYWwgcHMgPSBSZXBsaWNhdGVkU3RvcmFnZTpGaW5kRmlyc3RDaGlsZCgiUGxhY2VtZW50U3lzdGVtIikKICAgIGlmIHBzIHRoZW4gdGFibGUuaW5zZXJ0KHJvb3RzLCBwcykgZW5kCiAgICBmb3IgXywgcm9vdCBpbiBpcGFpcnMocm9vdHMpIGRvCiAgICAgICAgZm9yIF8sIG9iaiBpbiBpcGFpcnMocm9vdDpHZXREZXNjZW5kYW50cygpKSBkbwogICAgICAgICAgICBpZiBvYmo6SXNBKCJNb2RlbCIpIGFuZCBvYmouTmFtZSA9PSBuYW1lIHRoZW4KICAgICAgICAgICAgICAgIHJldHVybiBvYmoKICAgICAgICAgICAgZW5kCiAgICAgICAgZW5kCiAgICBlbmQKICAgIHJldHVybiBuaWwKZW5kCgpsb2NhbCBmdW5jdGlvbiBjbGVhclByZXZpZXcoKQogICAgZm9yIF8sIG9iaiBpbiBpcGFpcnMoQVBJLlByZXZpZXcpIGRvIHBjYWxsKGZ1bmN0aW9uKCkgb2JqOkRlc3Ryb3koKSBlbmQpIGVuZAogICAgdGFibGUuY2xlYXIoQVBJLlByZXZpZXcpCmVuZAoKbG9jYWwgZnVuY3Rpb24gc2Nhbk5lYXJieShyYWRpdXMpCiAgICByYWRpdXMgPSByYWRpdXMgb3IgMTgwCiAgICBsb2NhbCBmb3VuZCwgc2VlbiA9IHt9LCB7fQogICAgbG9jYWwgb2ssIGRlc2NlbmRhbnRzID0gcGNhbGwoZnVuY3Rpb24oKSByZXR1cm4gd29ya3NwYWNlOkdldERlc2NlbmRhbnRzKCkgZW5kKQogICAgaWYgbm90IG9rIHRoZW4gcmV0dXJuIGZvdW5kIGVuZAogICAgZm9yIF8sIGluc3QgaW4gaXBhaXJzKGRlc2NlbmRhbnRzKSBkbwogICAgICAgIGlmIGlzQ2FuZGlkYXRlKGluc3QpIGFuZCBub3Qgc2VlbltpbnN0XSB0aGVuCiAgICAgICAgICAgIGxvY2FsIHN1Y2Nlc3MsIHBpdm90ID0gcGNhbGwoZnVuY3Rpb24oKSByZXR1cm4gaW5zdDpHZXRQaXZvdCgpIGVuZCkKICAgICAgICAgICAgaWYgc3VjY2VzcyBhbmQgKHBpdm90LlBvc2l0aW9uIC0gUm9vdC5Qb3NpdGlvbikuTWFnbml0dWRlIDw9IHJhZGl1cyB0aGVuCiAgICAgICAgICAgICAgICBzZWVuW2luc3RdID0gdHJ1ZQogICAgICAgICAgICAgICAgdGFibGUuaW5zZXJ0KGZvdW5kLCBpbnN0KQogICAgICAgICAgICBlbmQKICAgICAgICBlbmQKICAgIGVuZAogICAgcmV0dXJuIGZvdW5kCmVuZAoKZnVuY3Rpb24gQVBJOkNhcHR1cmUocmFkaXVzKQogICAgbG9jYWwgbW9kZWxzID0gc2Nhbk5lYXJieShyYWRpdXMpCiAgICBpZiAjbW9kZWxzID09IDAgdGhlbiBub3RpZnk oIk5vIG5lYXJieSBtb2RlbHMgZm91bmQuIikgcmV0dXJuIGZhbHNlIGVuZAogICAgbG9jYWwgb3JpZ2luID0gUm9vdC5DRnJhbWUKICAgIGxvY2FsIGVudHJpZXMgPSB7fQogICAgZm9yIF8sIG1vZGVsIGluIGlwYWlycyhtb2RlbHMpIGRvCiAgICAgICAgbG9jYWwgb2ssIHBpdm90ID0gcGNhbGwoZnVuY3Rpb24oKSByZXR1cm4gbW9kZWw6R2V0UGl2b3QoKSBlbmQpCiAgICAgICAgaWYgb2sgdGhlbgogICAgICAgICAgICBsb2NhbCByZWwgPSBvcmlnaW46VG9PYmplY3RTcGFjZShwaXZvdCkKICAgICAgICAgICAgdGFibGUuaW5zZXJ0KGVudHJpZXMsIHsKICAgICAgICAgICAgICAgIG5hbWUgPSBtb2RlbC5OYW1lLAogICAgICAgICAgICAgICAgeCA9IHJlbC5YLCB5ID0gcmVsLlksIHogPSByZWwuWiwKICAgICAgICAgICAgICAgIHJ4ID0gc2VsZWN0KDEsIHJlbDpUb09yaWVudGF0aW9uKCkpLAogICAgICAgICAgICAgICAgcnkgPSBzZWxlY3QoMiwgcmVsOlRvT3JpZW50YXRpb24oKSksCiAgICAgICAgICAgICAgICByeiA9IHNlbGVjdCgzLCByZWw6VG9PcmllbnRhdGlvbigpKSwKICAgICAgICAgICAgfSkKICAgICAgICBlbmQKICAgIGVuZAogICAgc2VsZi5CbHVlcHJpbnQgPSB7Zm9ybWF0PSJJTkRVU1RSSUFMSVNUX0JMVUVQUklOVCIsIHZlcnNpb249MSwgY291bnQ9I2VudHJpZXMsIGVudHJpZXM9ZW50cmllc30KICAgIG5vdGlmeSgiQ2FwdHVyZWQgIiAuLiAjZW50cmllcyAuLiAiIG5lYXJieSBtb2RlbHMuIEV4cG9ydCB0aGUgYmx1ZXByaW50IGJlZm9yZSBsZWF2aW5nLiIpCiAgICByZXR1cm4gdHJ1ZQplbmQKCmZ1bmN0aW9uIEFQSTpFeHBvcnQoKQogICAgaWYgbm90IHNlbGYuQmx1ZXByaW50IHRoZW4gbm90aWZ5KCJDYXB0dXJlIGEgYnVpbGQgZmlyc3QuIikgcmV0dXJuIGVuZAogICAgbG9jYWwgZW5jb2RlZCA9IEh0dHBTZXJ2aWNlOkpTT05FbmNvZGUoc2VsZi5CbHVlcHJpbnQpCiAgICBpZiB0eXBlb2Yoc2V0Y2xpcGJvYXJkKSA9PSAiZnVuY3Rpb24iIHRoZW4KICAgICAgICBzZXRjbGlwYm9hcmQoZW5jb2RlZCkKICAgICAgICBub3RpZnkoIkJsdWVwcmludCBKU09OIGNvcGllZCB0byBjbGlwYm9hcmQuIikKICAgIGVsc2UKICAgICAgICBub3RpZnkoIkNsaXBib2FyZCB1bmF2YWlsYWJsZS4gSlNPTiBwcmludGVkIHRvIGNvbnNvbGUuIikKICAgICAgICBwcmludChlbmNvZGVkKQogICAgZW5kCmVuZAoKZnVuY3Rpb24gQVBJOkltcG9ydChyYXcpCiAgICByYXcgPSByYXcgb3IgKHR5cGVvZihnZXRjbGlwYm9hcmQpID09ICJmdW5jdGlvbiIgYW5kIGdldGNsaXBib2FyZCgpKQogICAgaWYgdHlwZShyYXcpIH49ICJzdHJpbmciIG9yIHJhdyA9PSAiIiB0aGVuIG5vdGlmeSgiQ2xpcGJvYXJkIGlzIGVtcHR5IG9yIHVuYXZhaWxhYmxlLiIpIHJldHVybiBmYWxzZSBlbmQKICAgIGxvY2FsIG9rLCBkYXRhID0gcGNhbGwoZnVuY3Rpb24oKSByZXR1cm4gSHR0cFNlcnZpY2U6SlNPTkRlY29kZShyYXcpIGVuZCkKICAgIGlmIG5vdCBvayBvciB0eXBlKGRhdGEpIH49ICJ0YWJsZSIgb3IgZGF0YS5mb3JtYXQgfj0gIklORFVTVFJJQUxJU1RfQkxVRVBSSU5UIiBvciB0eXBlKGRhdGEuZW50cmllcykgfj0gInRhYmxlIiB0aGVuCiAgICAgICAgbm90aWZ5KCJJbnZhbGlkIGJsdWVwcmludCBKU09OLiIpIHJldHVybiBmYWxzZQogICAgZW5kCiAgICBpZiAjZGF0YS5lbnRyaWVzID4gMTUwMCB0aGVuIG5vdGlmeSgiQmx1ZXByaW50IGV4Y2VlZHMgdGhlIDE1MDAtb2JqZWN0IHNhZmV0eSBsaW1pdC4iKSByZXR1cm4gZmFsc2UgZW5kCiAgICBzZWxmLkJsdWVwcmludCA9IGRhdGEKICAgIG5vdGlmeSgiSW1wb3J0ZWQgIiAuLiAjZGF0YS5lbnRyaWVzIC4uICIgYmx1ZXByaW50IGVudHJpZXMuIikKICAgIHJldHVybiB0cnVlCmVuZAoKZnVuY3Rpb24gQVBJOlByZXZpZXdCdWlsZCgpCiAgICBpZiBub3Qgc2VsZi5CbHVlcHJpbnQgdGhlbiBub3RpZnkoIkltcG9ydCBvciBjYXB0dXJlIGEgYmx1ZXByaW50IGZpcnN0LiIpIHJldHVybiBlbmQKICAgIGNsZWFyUHJldmlldygpCiAgICBsb2NhbCBiYXNlID0gUm9vdC5DRnJhbWUgKiBDRnJhbWUubmV3KDAsIDAsIC0xOCkKICAgIGZvciBpLCBlbnRyeSBpbiBpcGFpcnMoc2VsZi5CbHVlcHJpbnQuZW50cmllcykgZG8KICAgICAgICBsb2NhbCBjZiA9IGJhc2UgKiBDRnJhbWUubmV3KGVudHJ5LngsIGVudHJ5LnksIGVudHJ5LnopICogQ0ZyYW1lLmZyb21PcmllbnRhdGlvbihlbnRyeS5yeCBvciAwLCBlbnRyeS5yeSBvciAwLCBlbnRyeS5yeiBvciAwKQogICAgICAgIGxvY2FsIG1hcmtlciA9IEluc3RhbmNlLm5ldygiUGFydCIpCiAgICAgICAgbWFya2VyLk5hbWUgPSAiQmx1ZXByaW50UHJldmlldyIKICAgICAgICBtYXJrZXIuU2l6ZSA9IFZlY3RvcjMubmV3KDMsIDMsIDMpCiAgICAgICAgbWFya2VyLkFuY2hvcmVkID0gdHJ1ZQogICAgICAgIG1hcmtlci5DYW5Db2xsaWRlID0gZmFsc2UKICAgICAgICBtYXJrZXIuVHJhbnNwYXJlbmN5ID0gMC41NQogICAgICAgIG1hcmtlci5NYXRlcmlhbCA9IEVudW0uTWF0ZXJpYWwuRm9yY2VGaWVsZAogICAgICAgIG1hcmtlci5DRnJhbWUgPSBjZgogICAgICAgIG1hcmtlci5QYXJlbnQgPSB3b3Jrc3BhY2UKICAgICAgICB0YWJsZS5pbnNlcnQoc2VsZi5QcmV2aWV3LCBtYXJrZXIpCiAgICAgICAgaWYgaSAlIDEwMCA9PSAwIHRoZW4gUnVuU2VydmljZS5IZWFydGJlYXQ6V2FpdCgpIGVuZAogICAgZW5kCiAgICBub3RpZnkoIlByZXZpZXdlZCAiIC4uICNzZWxmLlByZXZpZXcgLi4gIiBwb3NpdGlvbnMuIFRoZXNlIGFyZSBtYXJrZXJzLCBub3QgcGxhY2VkIG1hY2hpbmVzLiIpCmVuZAoKZnVuY3Rpb24gQVBJOlBhc3RlKCkKICAgIGlmIHNlbGYuQnVzeSB0aGVuIG5vdGlmeSgiUGFzdGUgaXMgYWxyZWFkeSBydW5uaW5nLiIpIHJldHVybiBlbmQKICAgIGlmIG5vdCBzZWxmLkJsdWVwcmludCB0aGVuIG5vdGlmeSgiQ2FwdHVyZSBvciBpbXBvcnQgYSBibHVlcHJpbnQgZmlyc3QuIikgcmV0dXJuIGVuZAogICAgbG9jYWwgXywgcGxhY2VCaW5kID0gZ2V0UGxhY2VtZW50KCkKICAgIGlmIG5vdCBwbGFjZUJpbmQgb3Igbm90IHBsYWNlQmluZDpJc0EoIlJlbW90ZUZ1bmN0aW9uIikgdGhlbgogICAgICAgIG5vdGlmeSgiUGxhY2VtZW50U3lzdGVtLlBsYWNlQmluZCBub3QgZm91bmQgYXMgYSBSZW1vdGVGdW5jdGlvbi4gTm8gY2hhbmdlcyBtYWRlLiIpIHJldHVybgogICAgZW5kCiAgICBzZWxmLkJ1c3kgPSB0cnVlCiAgICBsb2NhbCBiYXNlID0gUm9vdC5DRnJhbWUgKiBDRnJhbWUubmV3KDAsIDAsIC0xOCkKICAgIGxvY2FsIHBsYWNlZCwgc2tpcHBlZCwgZXJyb3JzID0gMCwgMCwgMAogICAgZm9yIGksIGVudHJ5IGluIGlwYWlycyhzZWxmLkJsdWVwcmludC5lbnRyaWVzKSBkbwogICAgICAgIGlmIHNlbGYuRGVzdHJveWVkIHRoZW4gYnJlYWsgZW5kCiAgICAgICAgbG9jYWwgdGVtcGxhdGUgPSBmaW5kQ2F0YWxvZ01vZGVsKGVudHJ5Lm5hbWUpCiAgICAgICAgaWYgbm90IHRlbXBsYXRlIHRoZW4KICAgICAgICAgICAgc2tpcHBlZCArPSAxCiAgICAgICAgZWxzZQogICAgICAgICAgICBsb2NhbCBjZiA9IGJhc2UgKiBDRnJhbWUubmV3KGVudHJ5LngsIGVudHJ5LnksIGVudHJ5LnopICogQ0ZyYW1lLmZyb21PcmllbnRhdGlvbihlbnRyeS5yeCBvciAwLCBlbnRyeS5yeSBvciAwLCBlbnRyeS5yeiBvciAwKQogICAgICAgICAgICBsb2NhbCBvayA9IHBjYWxsKGZ1bmN0aW9uKCkKICAgICAgICAgICAgICAgIHBsYWNlQmluZDpJbnZva2VTZXJ2ZXIodGVtcGxhdGUsIGNmLCBuaWwsIHRydWUsIHRydWUsIHRydWUpCiAgICAgICAgICAgIGVuZCkKICAgICAgICAgICAgaWYgb2sgdGhlbiBwbGFjZWQgKz0gMSBlbHNlIGVycm9ycyArPSAxIGVuZAogICAgICAgIGVuZAogICAgICAgIGlmIGkgJSAzID09IDAgdGhlbiB0YXNrLndhaXQoMC4xMikgZW5kCiAgICBlbmQKICAgIHNlbGYuQnVzeSA9IGZhbHNlCiAgICBub3RpZnkoKCJQYXN0ZSBmaW5pc2hlZC4gUmVxdWVzdHM6ICVkIHwgTWlzc2luZyB0ZW1wbGF0ZXM6ICVkIHwgRXJyb3JzOiAlZCIpOmZvcm1hdChwbGFjZWQsIHNraXBwZWQsIGVycm9ycykpCmVuZAoKZnVuY3Rpb24gQVBJOkRlc3Ryb3koKQogICAgc2VsZi5EZXN0cm95ZWQgPSB0cnVlCiAgICBjbGVhclByZXZpZXcoKQogICAgaWYgc2VsZi5HdWkgdGhlbiBwY2FsbChmdW5jdGlvbigpIHNlbGYuR3VpOkRlc3Ryb3koKSBlbmQpIGVuZAogICAgc2VsZi5HdWkgPSBuaWwKZW5kCgotLSBDb21wYWN0IG5hdGl2ZSBVSSwgbm8gZXh0ZXJuYWwgVUk gZnJhbWV3b3JrLgpsb2NhbCBndWkgPSBJbnN0YW5jZS5uZXcoIlNjcmVlbkd1aSIpCmd1aS5OYW1lID0gIkluZHVzdHJpYWxpc3RCbHVlcHJpbnRVSSIKZ3VpLlJlc2V0T25TcGF3biA9IGZhbHNlCmd1aS5aSW5kZXhCZWhhdmlvciA9IEVudW0uWkluZGV4QmVoYXZpb3IuU2libGluZwpwY2FsbChmdW5jdGlvbigpIGd1aS5QYXJlbnQgPSBnYW1lOkdldFNlcnZpY2UoIkNvcmVHdWkiKSBlbmQpCmlmIG5vdCBndWkuUGFyZW50IHRoZW4gZ3VpLlBhcmVudCA9IExvY2FsUGxheWVyOldhaXRGb3JDaGlsZCgiUGxheWVyR3VpIikgZW5kCkFQSS5HdWkgPSBndWkKCmxvY2FsIHBhbmVsID0gSW5zdGFuY2UubmV3KCJGcmFtZSIpCnBhbmVsLlNpemUgPSBVRGltMi5mcm9tT2Zmc2V0KDIzNSwgMjkyKQpwYW5lbC5Qb3NpdGlvbiA9IFVEaW0yLm5ldygwLCAxOCwgMC4zNSwgMCkKcGFuZWwuQmFja2dyb3VuZENvbG9yMyA9IENvbG9yMy5mcm9tUkdCKDIyLCAyNSwgMzIpCnBhbmVsLkJvcmRlclNpemVQaXhlbCA9IDAKcGFuZWwuUGFyZW50ID0gZ3VpCkluc3RhbmNlLm5ldygiVUlDb3JuZXIiLCBwYW5lbCkuQ29ybmVyUmFkaXVzID0gVURpbS5uZXcoMCwgMTApCmxvY2FsIHN0cm9rZSA9IEluc3RhbmNlLm5ldygiVUlTdHJva2UiLCBwYW5lbCkKc3Ryb2tlLkNvbG9yID0gQ29sb3IzLmZyb21SR0IoNzAsIDgzLCAxMDUpCnN0cm9rZS5UcmFuc3BhcmVuY3kgPSAwLjI1Cgpsb2NhbCBoZWFkZXIgPSBJbnN0YW5jZS5uZXcoIlRleHRCdXR0b24iKQpoZWFkZXIuU2l6ZSA9IFVEaW0yLm5ldygxLCAwLCAwLCAzOCkKaGVhZGVyLkJhY2tncm91bmRDb2xvcjMgPSBDb2xvcjMuZnJvbVJHQigzNSwgNDIsIDU1KQpoZWFkZXIuVGV4dCA9ICJJTkRVU1RSSUFMSVNUIEJMVUVQUklOVCAgdjEuMSAgWy3ilJNdIgoaGVhZGVyLlRleHRDb2xvcjMgPSBDb2xvcjMubmV3KDEsMSwxKQpoZWFkZXIuVGV4dFNpemUgPSAxMgpoZWFkZXIuRm9udCA9IEVudW0uRm9udC5Hb3RoYW1Cb2xkCmhlYWRlci5QYXJlbnQgPSBwYW5lbApJbnN0YW5jZS5uZXcoIlVJQ29ybmVyIiwgaGVhZGVyKS5Db3JuZXJSYWRpdXMgPSBVRGltLm5ldygwLCAxMCkKCmxvY2FsIGJvZHkgPSBJbnN0YW5jZS5uZXcoIkZyYW1lIikKYm9keS5Qb3NpdGlvbiA9IFVEaW1iLmZyb21PZmZzZXQoOCwgNDUpCmJvZHkuU2l6ZSA9IFVEaW0yLm5ldygxLCAtMTYsIDEsIC01MykKYm9keS5CYWNrZ3JvdW5kVHJhbnNwYXJlbmN5ID0gMQpib2R5LlBhcmVudCA9IHBhbmVsCmxvY2FsIGxheW91dCA9IEluc3RhbmNlLm5ldygiVUlMaXN0TGF5b3V0IiwgYm9keSkKbGF5b3V0LlBhZGRpbmcgPSBVRGltLm5ldygwLCA2KQpsYXlvdXQuU29ydE9yZGVyID0gRW51bS5Tb3J0T3JkZXIuTGF5b3V0T3JkZXIKCmxvY2FsIGZ1bmN0aW9uIGFkZEJ1dHRvbihsYWJlbCwgY2FsbGJhY2spCiAgICBsb2NhbCBiID0gSW5zdGFuY2UubmV3KCJUZXh0QnV0dG9uIikKICAgIGIuU2l6ZSA9IFVEaW0yLm5ldygxLCAwLCAwLCAzNCkKICAgIGIuQmFja2dyb3VuZENvbG9yMyA9IENvbG9yMy5mcm9tUkdCKDQ4LCA1OCwgNzUpCiAgICBiLlRleHRDb2xvcjMgPSBDb2xvcjMuZnJvbVJHQigyNDUsIDI0NywgMjUwKQogICAgYi5UZXh0U2l6ZSA9IDEzCiAgICBiLkZvbnQgPSBFbnVtLkZvbnQuR290aGFtTWVkaXVtCiAgICBiLlRleHQgPSBsYWJlbAogICAgYi5BdXRvQnV0dG9uQ29sb3IgPSB0cnVlCiAgICBiLlBhcmVudCA9IGJvZHkKICAgIEluc3RhbmNlLm5ldygiVUlDb3JuZXIiLCBiKS5Db3JuZXJSYWRpdXMgPSBVRGltLm5ldygwLCA3KQogICAgYi5BY3RpdmF0ZWQ6Q29ubmVjdChmdW5jdGlvbigpIHRhc2suc3Bhd24oY2FsbGJhY2spIGVuZCkKICAgIHJldHVybiBiCmVuZAoKYWRkQnV0dG9uKCIxLiBDYXB0dXJlIG5lYXJieSBidWlsZCIsIGZ1bmN0aW9uKCkgQVBJOkNhcHR1cmUoMTgwKSBlbmQpCmFkZEJ1dHRvbigiMi4gRXhwb3J0IGJsdWVwcmludCAoY29weSkiLCBmdW5jdGlvbigpIEFQSTpFeHBvcnQoKSBlbmQpCmFkZEJ1dHRvbigiMy4gSW1wb3J0IGJsdWVwcmludCAocGFzdGUpIiwgZnVuY3Rpb24oKSBBUEk6SW1wb3J0KCkgZW5kKQphZGRCdXR0b24oIjQuIFByZXZpZXcgcG9zaXRpb25zIiwgZnVuY3Rpb24oKSBBUEk6UHJldmlld0J1aWxkKCkgZW5kKQphZGRCdXR0b24oIjUuIFBhc3RlIGJ1aWxkIiwgZnVuY3Rpb24oKSBBUEk6UGFzdGUoKSBlbmQpCmFkZEJ1dHRvbigiQ2xlYXIgcHJldmlldyIsIGZ1bmN0aW9uKCkgY2xlYXJQcmV2aWV3KCk7IG5vdGlmeSgiUHJldmlldyBjbGVhcmVkLiIpIGVuZCkKYWRkQnV0dG9uKCJDbG9zZSBzY3JpcHQiLCBmdW5jdGlvbigpIEFQSTpEZXN0cm95KCkgZW5kKQoKbG9jYWwgY29sbGFwc2VkID0gZmFsc2UKaGVhZGVyLkFjdGl2YXRlZDpDb25uZWN0KGZ1bmN0aW9uKCkKICAgIGNvbGxhcHNlZCA9IG5vdCBjb2xsYXBzZWQKICAgIGJvZHkuVmlzaWJsZSA9IG5vdCBjb2xsYXBzZWQKICAgIHBhbmVsLlNpemUgPSBjb2xsYXBzZWQgYW5kIFVEaW0yLmZyb21PZmZzZXQoMjM1LCAzOCkgb3IgVURpbTIuZnJvbU9mZnNldCgyMzUsIDI5MikKICAgIGhlYWRlci5UZXh0ID0gY29sbGFwc2VkIGFuZCAiSU5EVVNUUklBTElTVCBCTFVFUFJJTlQgIHYxLjEgIFsrXSIgb3IgIklORFVTVFJJQUxJU1QgQkxVRVBSSU5UICB2MS4xICBb4oiSXSIKZW5kKQoKbG9jYWwgZHJhZ2dpbmcsIGRyYWdTdGFydCwgc3RhcnRQb3MK aGVhZGVyLklucHV0QmVnYW46Q29ubmVjdChmdW5jdGlvbihpbnB1dCkKICAgIGlmIGlucHV0LlVzZXJJbnB1dFR5cGUgPT0gRW51bS5Vc2VySW5wdXRUeXBlLk1vdXNlQnV0dG9uMSBvciBpbnB1dC5Vc2VySW5wdXRUeXBlID09IEVudW0uVXNlcklucHV0VHlwZS5Ub3VjaCB0aGVuCiAgICAgICAgZHJhZ2dpbmcgPSB0cnVlOyBkcmFnU3RhcnQgPSBpbnB1dC5Qb3NpdGlvbjsgc3RhcnRQb3MgPSBwYW5lbC5Qb3NpdGlvbgogICAgICAgIGlucHV0LkNoYW5nZWQ6Q29ubmVjdChmdW5jdGlvbigpIGlmIGlucHV0LlVzZXJJbnB1dFN0YXRlID09IEVudW0uVXNlcklucHV0U3RhdGUuRW5kIHRoZW4gZHJhZ2dpbmcgPSBmYWxzZSBlbmQgZW5kKQogICAgZW5kCmVuZCkKVXNlcklucHV0U2VydmljZS5JbnB1dENoYW5nZWQ6Q29ubmVjdChmdW5jdGlvbihpbnB1dCkKICAgIGlmIGRyYWdnaW5nIGFuZCAoaW5wdXQuVXNlcklucHV0VHlwZSA9PSBFbnVtLlVzZXJJbnB1dFR5cGUuTW91c2VNb3ZlbWVudCBvciBpbnB1dC5Vc2VySW5wdXRUeXBlID09IEVudW0uVXNlcklucHV0VHlwZS5Ub3VjaCkgdGhlbgogICAgICAgIGxvY2FsIGRlbHRhID0gaW5wdXQuUG9zaXRpb24gLSBkcmFnU3RhcnQKICAgICAgICBwYW5lbC5Qb3NpdGlvbiA9IFVEaW0yLm5ldyhzdGFydFBvcy5YLlNjYWxlLCBzdGFydFBvcy5YLk9mZnNldCArIGRlbHRhLlgsIHN0YXJ0UG9zLlkuU2NhbGUsIHN0YXJ0UG9zLlkuT2Zmc2V0ICsgZGVsdGEuWSkKICAgIGVuZAplbmQpCgp0YXNrLmRlZmVyKGZ1bmN0aW9uKCkKICAgIG5vdGlmeSgiTG9hZGVkLiBDYXB0dXJlIGEgc21hbGwgdGVzdCBhcmVhIGZpcnN0OyBwbGFjZW1lbnQgaGFzIG5vdCBiZWVuIGxpdmUtdGVzdGVkLiIpCmVuZCkK
+-- INDUSTRIALIST BLUEPRINT v1.2
+-- Lightweight capture/export/import/preview utility for Delta.
+-- IMPORTANT: server placement signature and catalog lookup are game-version dependent.
+-- This version captures and transfers transforms; paste is guarded and may need adaptation.
+
+if _G.INDUSTRIALIST_BLUEPRINT then
+    pcall(function() _G.INDUSTRIALIST_BLUEPRINT:Destroy() end)
+end
+
+local Players = game:GetService("Players")
+local RS = game:GetService("ReplicatedStorage")
+local Http = game:GetService("HttpService")
+local UIS = game:GetService("UserInputService")
+local player = Players.LocalPlayer
+local char = player.Character or player.CharacterAdded:Wait()
+local root = char:WaitForChild("HumanoidRootPart")
+
+local API = {Blueprint=nil, Markers={}, Busy=false}
+_G.INDUSTRIALIST_BLUEPRINT = API
+
+local function say(s)
+    print("[Industrialist Blueprint] "..s)
+    pcall(function()
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title="Industrialist Blueprint", Text=s, Duration=4
+        })
+    end)
+end
+
+local function clear()
+    for _,v in ipairs(API.Markers) do pcall(function() v:Destroy() end) end
+    table.clear(API.Markers)
+end
+
+local function scan(radius)
+    local out, seen = {}, {}
+    for _,v in ipairs(workspace:GetDescendants()) do
+        if v:IsA("Model") and v ~= char and not seen[v] then
+            local ok, cf = pcall(function() return v:GetPivot() end)
+            if ok and (cf.Position-root.Position).Magnitude <= radius then
+                seen[v] = true
+                table.insert(out, v)
+            end
+        end
+    end
+    return out
+end
+
+function API:Capture()
+    local list = scan(180)
+    if #list == 0 then say("No nearby models found."); return end
+    local origin, entries = root.CFrame, {}
+    for _,m in ipairs(list) do
+        local ok, cf = pcall(function() return m:GetPivot() end)
+        if ok then
+            local rel = origin:ToObjectSpace(cf)
+            local x,y,z = rel:ToOrientation()
+            table.insert(entries, {name=m.Name, x=rel.X, y=rel.Y, z=rel.Z, rx=x, ry=y, rz=z})
+        end
+    end
+    self.Blueprint = {format="INDUSTRIALIST_BLUEPRINT", version=1, entries=entries}
+    say("Captured "..#entries.." models. Export the JSON.")
+end
+
+function API:Export()
+    if not self.Blueprint then say("Capture a build first."); return end
+    local data = Http:JSONEncode(self.Blueprint)
+    if typeof(setclipboard) == "function" then
+        setclipboard(data); say("Blueprint copied to clipboard.")
+    else
+        print(data); say("Clipboard unavailable; JSON printed to console.")
+    end
+end
+
+function API:Import()
+    if typeof(getclipboard) ~= "function" then say("Clipboard read unavailable."); return end
+    local ok, data = pcall(function() return Http:JSONDecode(getclipboard()) end)
+    if not ok or type(data) ~= "table" or data.format ~= "INDUSTRIALIST_BLUEPRINT"
+        or type(data.entries) ~= "table" or #data.entries > 1200 then
+        say("Invalid blueprint or over 1200 objects."); return
+    end
+    self.Blueprint = data
+    say("Imported "..#data.entries.." objects.")
+end
+
+function API:Preview()
+    if not self.Blueprint then say("Capture or import first."); return end
+    clear()
+    local base = root.CFrame * CFrame.new(0,0,-18)
+    for i,e in ipairs(self.Blueprint.entries) do
+        local p = Instance.new("Part")
+        p.Name, p.Size = "BlueprintPreview", Vector3.new(2.5,2.5,2.5)
+        p.Anchored, p.CanCollide, p.Transparency = true, false, 0.5
+        p.Material = Enum.Material.ForceField
+        p.CFrame = base * CFrame.new(e.x,e.y,e.z) * CFrame.fromOrientation(e.rx or 0,e.ry or 0,e.rz or 0)
+        p.Parent = workspace
+        table.insert(self.Markers,p)
+        if i % 100 == 0 then task.wait() end
+    end
+    say("Preview markers: "..#self.Markers..". These are not placed machines.")
+end
+
+function API:Paste()
+    if self.Busy or not self.Blueprint then say("Busy, or no blueprint loaded."); return end
+    local ps = RS:FindFirstChild("PlacementSystem")
+    local remote = ps and ps:FindFirstChild("PlaceBind")
+    if not remote or not remote:IsA("RemoteFunction") then say("PlaceBind RemoteFunction not found."); return end
+    say("Paste is disabled until the game's live catalog model and remote arguments are verified. Use preview/export safely.")
+end
+
+function API:Destroy()
+    clear()
+    if self.Gui then self.Gui:Destroy() end
+    _G.INDUSTRIALIST_BLUEPRINT = nil
+end
+
+local gui = Instance.new("ScreenGui")
+gui.Name, gui.ResetOnSpawn = "IndustrialistBlueprint", false
+pcall(function() gui.Parent = game:GetService("CoreGui") end)
+if not gui.Parent then gui.Parent = player:WaitForChild("PlayerGui") end
+API.Gui = gui
+
+local frame = Instance.new("Frame")
+frame.Size, frame.Position = UDim2.fromOffset(225,260), UDim2.new(0,16,0.35,0)
+frame.BackgroundColor3, frame.BorderSizePixel = Color3.fromRGB(25,29,38), 0
+frame.Parent = gui
+Instance.new("UICorner",frame).CornerRadius = UDim.new(0,9)
+
+local head = Instance.new("TextButton")
+head.Size, head.Text = UDim2.new(1,0,0,36), "INDUSTRIALIST BLUEPRINT  [-]"
+head.BackgroundColor3, head.TextColor3 = Color3.fromRGB(43,52,68), Color3.new(1,1,1)
+head.Font, head.TextSize, head.Parent = Enum.Font.GothamBold, 11, frame
+Instance.new("UICorner",head).CornerRadius = UDim.new(0,9)
+
+local body = Instance.new("Frame")
+body.Position, body.Size = UDim2.fromOffset(8,43), UDim2.new(1,-16,1,-51)
+body.BackgroundTransparency, body.Parent = 1, frame
+local layout = Instance.new("UIListLayout",body)
+layout.Padding = UDim.new(0,6)
+
+local function button(label,fn)
+    local b = Instance.new("TextButton")
+    b.Size, b.Text = UDim2.new(1,0,0,30), label
+    b.BackgroundColor3, b.TextColor3 = Color3.fromRGB(53,65,84), Color3.new(1,1,1)
+    b.Font, b.TextSize, b.Parent = Enum.Font.GothamMedium, 12, body
+    Instance.new("UICorner",b).CornerRadius = UDim.new(0,6)
+    b.Activated:Connect(function() task.spawn(fn) end)
+end
+
+button("Capture nearby build",function() API:Capture() end)
+button("Export blueprint",function() API:Export() end)
+button("Import from clipboard",function() API:Import() end)
+button("Preview positions",function() API:Preview() end)
+button("Paste build (currently guarded)",function() API:Paste() end)
+button("Clear preview",function() clear(); say("Preview cleared.") end)
+button("Close",function() API:Destroy() end)
+
+local collapsed, dragging, dragPos, startPos = false, false
+head.Activated:Connect(function()
+    collapsed = not collapsed
+    body.Visible = not collapsed
+    frame.Size = collapsed and UDim2.fromOffset(225,36) or UDim2.fromOffset(225,260)
+    head.Text = collapsed and "INDUSTRIALIST BLUEPRINT  [+]" or "INDUSTRIALIST BLUEPRINT  [-]"
+end)
+head.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseButton1 then
+        dragging, dragPos, startPos = true, input.Position, frame.Position
+        input.Changed:Connect(function()
+            if input.UserInputState == Enum.UserInputState.End then dragging = false end
+        end)
+    end
+end)
+UIS.InputChanged:Connect(function(input)
+    if dragging and (input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseMovement) then
+        local d = input.Position-dragPos
+        frame.Position = UDim2.new(startPos.X.Scale,startPos.X.Offset+d.X,startPos.Y.Scale,startPos.Y.Offset+d.Y)
+    end
+end)
+
+say("Loaded. Capture a small test area first. Placement is intentionally guarded.")

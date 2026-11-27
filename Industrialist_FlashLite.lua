@@ -1,7 +1,7 @@
 --[[
     INDUSTRIALIST FLASH-LITE
     Independent lightweight blueprint toolkit.
-    Version: 1.1.0
+    Version: 1.1.1
     Target: Roblox / Delta-compatible Luau environments
 
     Implemented:
@@ -11,12 +11,15 @@
       - Clipboard export/import with validation
       - Lightweight preview markers, rotate, clear
       - Blueprint inventory and bounds summary
+      - Adjustable 3D selection volume; only catalog machines inside are copied
+      - Machine paste through PlacementSystem.PlaceBind(template, CFrame)
+      - Existing blueprint JSON import/export compatibility
       - Local A* grid route planner core (planning only)
 
-    Deliberately not enabled:
-      - Server-side placement, pipe/cable/wire reconstruction, deletion,
-        replacement, and world restore. Those require verified Industrialist
-        remote signatures and ownership rules. No guessed RemoteFunction calls.
+    Still not implemented:
+      - Pipe/cable/wire reconstruction, deletion, replacement, and world restore.
+      - Paste has not yet been tested in a live Industrialist session; the server
+        remains authoritative and may reject unavailable or unowned machines.
 ]]
 
 repeat task.wait() until game:IsLoaded()
